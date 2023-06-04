@@ -1,0 +1,8 @@
+﻿  Bai1a.cpp
+  Bai1b.cpp
+  Generating Code...
+Bai1b.obj : error LNK2005: "void __cdecl AddTail(struct List &,struct Node *)" (?AddTail@@YAXAEAUList@@PEAUNode@@@Z) already defined in Bai1a.obj
+Bai1b.obj : error LNK2005: "void __cdecl CreateList(struct List &)" (?CreateList@@YAXAEAUList@@@Z) already defined in Bai1a.obj
+Bai1b.obj : error LNK2005: "struct Node * __cdecl CreateNode(int)" (?CreateNode@@YAPEAUNode@@H@Z) already defined in Bai1a.obj
+Bai1b.obj : error LNK2005: "struct Node * __cdecl DaoNguoc(struct Node *)" (?DaoNguoc@@YAPEAUNode@@PEAU1@@Z) already defined in Bai1a.obj
+D:\Code\DSA\Thi_Thu_CNPM\Bai1_dslk\x64\Debug\Bai1_dslk.exe : fatal error LNK1169: one or more multiply defined symbols found
